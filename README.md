@@ -21,4 +21,26 @@ By handling user clicks, tracking the game state, and checking winning condition
 - CSS3 🎨
 - JavaScript ⚙️
 
+---
 
+📸 Screenshots
+
+
+
+
+
+
+
+---
+
+## 📚 What I Learned
+
+While building this project, I gained hands-on experience with:
+
+- 🧱 **HTML**: Structuring the game board using semantic elements
+- 🎨 **CSS**: Designing a clean and responsive game layout with hover effects
+- ⚙️ **JavaScript**: 
+  - Handling user interactions (click events)
+  - Managing game state and player turns
+  - Implementing win/draw logic with condition checking
+  - DOM manipulation for real-time updates
