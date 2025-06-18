@@ -46,7 +46,7 @@ While building this project, I gained hands-on experience with:
 ---
  
  ## 📲 Live Demo
-🔗 Click here to view live ((https://yogeshmishra02.github.io/PRODIGY_WD_02/))
+🔗 Click here to view live ((https://yogeshmishra02.github.io/PRODIGY_WD_03/))
 
 📬 Contact
 If you have any feedback or suggestions, feel free to connect:
