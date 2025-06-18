@@ -16,7 +16,9 @@ By handling user clicks, tracking the game state, and checking winning condition
 
 ---
 
-## 💡 Technologies Used:
-- HTML5
-- CSS3
-- Vanilla JavaScript
+## 🛠️ Technologies Used
+- HTML5 📄
+- CSS3 🎨
+- JavaScript ⚙️
+
+
