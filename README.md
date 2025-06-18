@@ -26,6 +26,7 @@ By handling user clicks, tracking the game state, and checking winning condition
 📸 Screenshots
 
 
+![Screenshot 2025-06-19 002241](https://github.com/user-attachments/assets/2f00e01f-2b29-4e2f-8c00-03910f70ee6d)
 
 
 
